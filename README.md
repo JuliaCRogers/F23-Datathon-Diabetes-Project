@@ -10,3 +10,5 @@ In this project, I employed heatmap and scatterplot visualizations, along with a
 I welcome comments and feedback, as I actively immerse myself in learning data science concepts with the aim of applying them to future roles.
 
 Data Source: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+Link to Project: https://deepnote.com/workspace/datathon-2023-1f6f-7147ea90-a726-4b21-82dc-bf62c1391585/project/F23-Datathon-Diabetes-Project-d5e8e695-1906-493f-8987-7e793117b2c2/notebook/diabetesDf-a6469cef4dca4c2f961f52354752024e
